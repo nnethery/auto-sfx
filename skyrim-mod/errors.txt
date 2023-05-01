@@ -1,0 +1,15 @@
+Starting 1 compile threads for 1 files...
+Compiling "PrintSoundEffectScript"...
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(12,17): unknown type soundreference[]
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(15,10): cannot name a variable or property the same as a known type or script
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(24,47): GetFormattedDateString is not a function or does not exist
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(29,34): unknown type soundreference
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(30,49): soundreference is not a known user-defined type
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(30,67): GetFormattedDateString is not a function or does not exist
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(33,33): unknown type soundreference
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(34,48): soundreference is not a known user-defined type
+C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts\PrintSoundEffectScript.psc(34,66): GetFormattedDateString is not a function or does not exist
+No output generated for PrintSoundEffectScript, compilation failed.
+
+Batch compile of 1 files finished. 0 succeeded, 1 failed.
+Failed on PrintSoundEffectScript
